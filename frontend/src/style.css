@@ -1,0 +1,15 @@
+.heading {
+  padding-bottom: 1ch;
+  border-radius: 25px;
+  width: 81%;
+}
+
+.login {
+  color: white;
+  background-color: white;
+}
+
+.sponsor {
+  border-radius: 15px;
+  background: #ffffff;
+}
